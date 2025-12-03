@@ -54,6 +54,7 @@ def main() -> None:
     day = get_day_from_filename(__file__)
     raw = fetch_input(day)
     data = parse_input(raw)
+    print(data)
     print(f"Part 1: {solve_part1(data)}")
     print(f"Part 2: {solve_part2(data)}")
 
