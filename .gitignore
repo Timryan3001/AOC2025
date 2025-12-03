@@ -1,0 +1,10 @@
+# Python artifacts
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment and inputs
+.env
+inputs/day*.txt
+
