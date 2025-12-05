@@ -16,7 +16,7 @@ if str(PROJECT_ROOT) not in sys.path:
 
 from aoc_utils import ensure_input_file  # noqa: E402
 
-DAY = 4  # <- change this each time you want to scaffold a new day (1–25)
+DAY = 5  # <- change this each time you want to scaffold a new day (1–25)
 
 SOLUTION_TEMPLATE = """\"\"\"Advent of Code 2025 - Day XX\"\"\"
 
